@@ -1,2 +1,0 @@
-pip install streamlit pandas numpy plotly pydeck
-streamlit run aliaga_lojistik_paneli.py
