@@ -142,6 +142,4 @@ Kod bölümleri: sabitler → sentetik veri üretimi → tahmin modeli → senar
 - Akış haritasındaki rota payları sabit varsayımdır.
 - Fikirler: gerçek AIS verisi entegrasyonu, Prophet/SARIMA gibi alternatif modeller ve model karşılaştırması, hava durumu API'si ile kapanış tahmini, demuraj maliyeti hesabı, çoklu ürün için tank stoğu simülasyonu.
 
-## Lisans
 
-Lisansınızı buraya ekleyin (ör. MIT).
